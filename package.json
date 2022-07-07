@@ -1,0 +1,9 @@
+{
+  "name": "@focussly/electron-layer",
+  "version": "1.0.0",
+  "description": "A Javascript overlay for clearer process management of the electron package",
+  "author": "Jérôme Wohlschlegel <jerome.wohlschlegel@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "index.js"
+}
